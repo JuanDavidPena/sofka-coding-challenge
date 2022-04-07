@@ -20,3 +20,5 @@ Also you can type "retire" whenever you want to keep the prizes you have collect
 ## Saving
 When you type "yes" to save your score, a file will be created with the name of the player that is currently playing and a json string containing the name and the score will be saved.
 
+## Authors
+Juan David Peña
